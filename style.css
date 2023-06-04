@@ -1,16 +1,6 @@
 body {
-  background-color:green;
+  background-color:#777;
  
 }
 h1{
-  color:white;
   font-size:40px;
-  background:red;
-  border:8px Solid Green;
-}
-
-.header {
-  background:red;
-  font-size:28px;
-  color:white
-}
