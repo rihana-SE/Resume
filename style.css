@@ -1,19 +1,42 @@
-body{
-  background-color:lightblue;
-}
-h1{
-  font-size:38px;
-  color: white;
-  text-align: center;
-  background:black;
-  
-}
-footer.{
-  background:black
-}
-
-.Name{
-  text-transform:uppercase;
-}
-
-
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="Name">
+    <h1>Rihana Mohamed</h1>
+  </div>
+  <p>520 Warwick Street</p>
+  <p>Saint Paul, Minnesota, 55116</p>
+  <p>6124779726</p>
+    
+    
+  <h1>Education</h1>
+  <p>Gustavus Adolphus College-28\7\2022-2\02\2023</p>
+  <p>Sellected Coursework</p>
+  <ul>
+    <li>Introduction to Computer Science</li>
+    <li>3D modeling- Digital Based Media</li>
+    <li>Politics of housing homelessness</li>
+    <li>Introduction to Peace studies</li>
+   </ul>
+  <p>Satcom Technology Institute(Certeficate)-2020-2021</p>
+  <li>Computer Networking</li>
+  <p>Rift Valley University-2017-2019</p>
+  <li>Diploma in Computer Hardware and Networking Service</li>
+  <h1>Experiance</h1>
+  <li>Satcom Technology Institute-2020-2021</li>
+  <p>TA(Teacher Assistant for Computer basics and Network configurations)</p>
+  <li>Feres Transportation Company-2021-2022</li>
+  <p>IT assistant</li>
+  <h1>Skills</h1>
+  <ul>
+    <li>3D Modeling</li>
+    <li>Video editing</li>
+    <li>Computer Basics</li>
+    <li>Computer Network Configuration and Management(server-2008)</li>
+  <ul/>
+  <h6>Copyright Rihana Mohamed 2023</h6>
+</body>
+</html>
